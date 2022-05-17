@@ -1,0 +1,10 @@
+.pastraipos-modelis{
+    box-sizing: content-box;
+    background-color: yellow;
+    padding: 30px;
+    width: 50%;
+    border: 10px solid rgb(109, 80, 6);
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
