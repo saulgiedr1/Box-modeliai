@@ -1,25 +1,20 @@
-.pastraipa {
-    box-sizing: content-box;
-    width: 70%;
-    font-size: 20px;
-    border: dotted black 2px;
-    padding-bottom: 40px;
-    padding-right: 40px;    
-    background-color: white;
-    
-    
-
-}
 
 .isorine-dalis{
     box-sizing: border-box;   
     border:  20px rgb(180, 127, 13) solid;
     margin: 100px ;    
-    width: 50%;     
+    width: 600px; 
+    padding-bottom: 50px;    
 
 }
-.isorine-antra {
+
+.pastraipa {
     
-    padding-bottom: 50px;
+    width: 80%;
+    font-size: 30px;
+    border: dotted black 2px;       
+    background-color: white;
+    
+   
 
 }
