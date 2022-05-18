@@ -9,7 +9,7 @@
 }
 
 .pastraipa {
-    
+    box-sizing: border-box;
     width: 80%;
     font-size: 30px;
     border: dotted black 2px;       
